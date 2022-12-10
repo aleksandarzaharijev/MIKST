@@ -1,0 +1,4 @@
+Korišćenjem programskog jezika C napisati Linux program koji se deli u tri procesa. Prvi proces cita iz 
+datoteke neparni.txt liniju po liniju i salje ih procesu roditelju korišćenjem datavoda, drugi iz datoteke 
+parni.txt čita liniju po liniju I šalje ih procesu roditelju takođe koriščenjem datavoda. Proces roditelj 
+obezbeđuje da se u datoteku spojeno.txt naizmenično upisuju neparne i parne linije.

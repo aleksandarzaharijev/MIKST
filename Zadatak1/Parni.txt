@@ -1,0 +1,5 @@
+Korišćenjem programskog jezika C kreirati Linux program koji koristeći dve dodatne niti kopira s
+čiji je naziv zadat kao argument komandne linije u dve datoteke „parni.txt“ i „neparni.txt�
+„parni.txt“ sadrži samo parne linije iz ulazne datoteke, a datoteka „neparni.txt“ sadrži 
+iz ulazne datoteke. Glavna nit otvara ulaznu datoteku, čita njen sadržaj liniju po liniju i upisu
+promenljivu odakle je preuzimaju dodatne niti. Sinhronizaciju rada niti rešiti korišćenjem semaf
